@@ -1,4 +1,4 @@
-# Advanced Java
+Advanced Java
 ----------------------
 ## Project 2 : Array List
 **OutPut:**
